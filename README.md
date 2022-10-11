@@ -1,4 +1,5 @@
 # b4r-brute
+# hacktoberfest
 Script para crackear cuentas de Facebook usando la ID del usuario
 
 git clone https://github.com/b4rc0d37/b4r-brute.git
